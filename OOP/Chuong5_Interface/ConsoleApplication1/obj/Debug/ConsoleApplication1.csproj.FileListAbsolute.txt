@@ -1,0 +1,6 @@
+E:\HDT\Chuong5_Interface\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\HDT\Chuong5_Interface\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\HDT\Chuong5_Interface\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\HDT\Chuong5_Interface\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\HDT\Chuong5_Interface\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\HDT\Chuong5_Interface\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

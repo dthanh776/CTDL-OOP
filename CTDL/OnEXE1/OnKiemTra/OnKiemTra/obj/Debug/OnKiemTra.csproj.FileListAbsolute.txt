@@ -1,0 +1,5 @@
+D:\OnKiemTra\OnKiemTra\bin\Debug\OnKiemTra.exe
+D:\OnKiemTra\OnKiemTra\bin\Debug\OnKiemTra.pdb
+D:\OnKiemTra\OnKiemTra\obj\Debug\OnKiemTra.csprojResolveAssemblyReference.cache
+D:\OnKiemTra\OnKiemTra\obj\Debug\OnKiemTra.exe
+D:\OnKiemTra\OnKiemTra\obj\Debug\OnKiemTra.pdb

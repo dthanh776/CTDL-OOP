@@ -1,0 +1,7 @@
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\HomeWord1\HomeWord1\bin\Debug\HomeWord1.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\HomeWord1\HomeWord1\bin\Debug\HomeWord1.exe
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\HomeWord1\HomeWord1\bin\Debug\HomeWord1.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\HomeWord1\HomeWord1\obj\Debug\HomeWord1.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\HomeWord1\HomeWord1\obj\Debug\HomeWord1.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\HomeWord1\HomeWord1\obj\Debug\HomeWord1.exe
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\HomeWord1\HomeWord1\obj\Debug\HomeWord1.pdb

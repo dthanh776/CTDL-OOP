@@ -1,0 +1,6 @@
+D:\Bai4\bin\Debug\Bai4.exe.config
+D:\Bai4\bin\Debug\Bai4.exe
+D:\Bai4\bin\Debug\Bai4.pdb
+D:\Bai4\obj\Debug\Bai4.exe
+D:\Bai4\obj\Debug\Bai4.pdb
+D:\Bai4\obj\Debug\Bai4.csprojResolveAssemblyReference.cache

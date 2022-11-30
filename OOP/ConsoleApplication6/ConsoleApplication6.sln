@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication6", "ConsoleApplication6.csproj", "{2C7BDD28-3D4B-448A-9E62-159A42F80462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chuong3_Bai1", "..\Chuong3_Bai1\Chuong3_Bai1.csproj", "{7F39AE19-9BAE-4CE8-B5B7-99B0185CE856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7BDD28-3D4B-448A-9E62-159A42F80462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7BDD28-3D4B-448A-9E62-159A42F80462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7BDD28-3D4B-448A-9E62-159A42F80462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7BDD28-3D4B-448A-9E62-159A42F80462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F39AE19-9BAE-4CE8-B5B7-99B0185CE856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F39AE19-9BAE-4CE8-B5B7-99B0185CE856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F39AE19-9BAE-4CE8-B5B7-99B0185CE856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F39AE19-9BAE-4CE8-B5B7-99B0185CE856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

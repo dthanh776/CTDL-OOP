@@ -1,0 +1,5 @@
+D:\Phamtanloc\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\Phamtanloc\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\Phamtanloc\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\Phamtanloc\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\Phamtanloc\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

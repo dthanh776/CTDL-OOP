@@ -1,0 +1,7 @@
+E:\CTDL\Chuong5_NganXep\HangDoi\ConsoleApplication1\Bai4\bin\Debug\Bai4.exe
+E:\CTDL\Chuong5_NganXep\HangDoi\ConsoleApplication1\Bai4\bin\Debug\Bai4.pdb
+E:\CTDL\Chuong5_NganXep\HangDoi\ConsoleApplication1\Bai4\obj\Debug\Bai4.exe
+E:\CTDL\Chuong5_NganXep\HangDoi\ConsoleApplication1\Bai4\obj\Debug\Bai4.pdb
+E:\CTDL\Chuong5_NganXep\HangDoi\ConsoleApplication1\Bai4\bin\Debug\Bai4.exe.config
+E:\CTDL\Chuong5_NganXep\HangDoi\ConsoleApplication1\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+E:\CTDL\Chuong5_NganXep\HangDoi\ConsoleApplication1\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache

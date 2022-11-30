@@ -1,0 +1,5 @@
+D:\Phamtanloc\ConsoleApplication4\QuanLySach\bin\Debug\QuanLySach.exe
+D:\Phamtanloc\ConsoleApplication4\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\Phamtanloc\ConsoleApplication4\QuanLySach\obj\Debug\QuanLySach.csprojResolveAssemblyReference.cache
+D:\Phamtanloc\ConsoleApplication4\QuanLySach\obj\Debug\QuanLySach.exe
+D:\Phamtanloc\ConsoleApplication4\QuanLySach\obj\Debug\QuanLySach.pdb

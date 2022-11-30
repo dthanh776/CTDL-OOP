@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Chuong4_Bai1\Chuong4_Bai1\bin\Debug\Chuong4_Bai1.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Chuong4_Bai1\Chuong4_Bai1\bin\Debug\Chuong4_Bai1.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Chuong4_Bai1\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Chuong4_Bai1\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Chuong4_Bai1\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.pdb
+E:\CTDL\Chuong4_Bai1\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.exe
+E:\CTDL\Chuong4_Bai1\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.pdb
+E:\CTDL\Chuong4_Bai1\Chuong4_Bai1\bin\Debug\Chuong4_Bai1.exe
+E:\CTDL\Chuong4_Bai1\Chuong4_Bai1\bin\Debug\Chuong4_Bai1.pdb
+E:\CTDL\Chuong4_Bai1\Chuong4_Bai1\obj\Debug\Chuong4_Bai1.csprojResolveAssemblyReference.cache

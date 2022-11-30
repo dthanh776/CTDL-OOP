@@ -1,0 +1,7 @@
+E:\CTDL\ConsoleApplication4\SinhVienGhiFIle\bin\Debug\SinhVienGhiFIle.exe
+E:\CTDL\ConsoleApplication4\SinhVienGhiFIle\bin\Debug\SinhVienGhiFIle.pdb
+E:\CTDL\ConsoleApplication4\SinhVienGhiFIle\obj\Debug\SinhVienGhiFIle.exe
+E:\CTDL\ConsoleApplication4\SinhVienGhiFIle\obj\Debug\SinhVienGhiFIle.pdb
+E:\CTDL\ConsoleApplication4\SinhVienGhiFIle\obj\Debug\SinhVienGhiFIle.csprojResolveAssemblyReference.cache
+E:\CTDL\Chuong2_TimKiem\SinhVienGhiFIle\obj\Debug\SinhVienGhiFIle.exe
+E:\CTDL\Chuong2_TimKiem\SinhVienGhiFIle\obj\Debug\SinhVienGhiFIle.pdb

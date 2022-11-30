@@ -1,0 +1,5 @@
+So luong sinh vien: 6
+Ma SV        Ten SV            Ngay sinh          Diem TB        Xep loai  
+123TT11      Phan Hoa Tu       12/05/2002        8.5             Gioi
+123TT08      Hoang Huu Nam     30/07/2001        9.4             Gioi
+123TT13      Vo Van Thanh      13/03/2002        10              Gioi

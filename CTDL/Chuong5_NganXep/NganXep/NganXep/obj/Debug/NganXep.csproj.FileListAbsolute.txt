@@ -1,0 +1,5 @@
+E:\CTDL\Chuong5_NganXep\NganXep\NganXep\bin\Debug\NganXep.exe
+E:\CTDL\Chuong5_NganXep\NganXep\NganXep\bin\Debug\NganXep.pdb
+E:\CTDL\Chuong5_NganXep\NganXep\NganXep\obj\Debug\NganXep.csprojResolveAssemblyReference.cache
+E:\CTDL\Chuong5_NganXep\NganXep\NganXep\obj\Debug\NganXep.exe
+E:\CTDL\Chuong5_NganXep\NganXep\NganXep\obj\Debug\NganXep.pdb

@@ -1,0 +1,8 @@
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\Time\Time\bin\Debug\Time.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\Time\Time\bin\Debug\Time.exe
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\Time\Time\bin\Debug\Time.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\Time\Time\obj\Debug\Time.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\Time\Time\obj\Debug\Time.csproj.SuggestedBindingRedirects.cache
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\Time\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\Time\Time\obj\Debug\Time.exe
+C:\Users\dthan\OneDrive\Desktop\Code\OOP\Time\Time\obj\Debug\Time.pdb

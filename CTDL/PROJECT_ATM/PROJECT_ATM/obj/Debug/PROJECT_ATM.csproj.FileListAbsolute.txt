@@ -1,0 +1,29 @@
+E:\học tập\CTDL&GiaiThuat\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.csproj.AssemblyReference.cache
+E:\học tập\CTDL&GiaiThuat\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.csproj.SuggestedBindingRedirects.cache
+E:\học tập\CTDL&GiaiThuat\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.csproj.CoreCompileInputs.cache
+E:\học tập\CTDL&GiaiThuat\PROJECT_ATM\PROJECT_ATM\bin\Debug\PROJECT_ATM.exe.config
+E:\học tập\CTDL&GiaiThuat\PROJECT_ATM\PROJECT_ATM\bin\Debug\PROJECT_ATM.exe
+E:\học tập\CTDL&GiaiThuat\PROJECT_ATM\PROJECT_ATM\bin\Debug\PROJECT_ATM.pdb
+E:\học tập\CTDL&GiaiThuat\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.exe
+E:\học tập\CTDL&GiaiThuat\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.pdb
+E:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\bin\Debug\PROJECT_ATM.exe.config
+E:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.exe
+E:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.pdb
+E:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.csprojResolveAssemblyReference.cache
+E:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\bin\Debug\PROJECT_ATM.exe
+E:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\bin\Debug\PROJECT_ATM.pdb
+F:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\bin\Debug\PROJECT_ATM.exe.config
+F:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\bin\Debug\PROJECT_ATM.exe
+F:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\bin\Debug\PROJECT_ATM.pdb
+F:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.csproj.AssemblyReference.cache
+F:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.csproj.SuggestedBindingRedirects.cache
+F:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.csproj.CoreCompileInputs.cache
+F:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.exe
+F:\#CTDL&GT\Project\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\CTDL\PROJECT_ATM\PROJECT_ATM\bin\Debug\PROJECT_ATM.exe.config
+C:\Users\dthan\OneDrive\Desktop\Code\CTDL\PROJECT_ATM\PROJECT_ATM\bin\Debug\PROJECT_ATM.exe
+C:\Users\dthan\OneDrive\Desktop\Code\CTDL\PROJECT_ATM\PROJECT_ATM\bin\Debug\PROJECT_ATM.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\CTDL\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\CTDL\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\CTDL\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.exe
+C:\Users\dthan\OneDrive\Desktop\Code\CTDL\PROJECT_ATM\PROJECT_ATM\obj\Debug\PROJECT_ATM.pdb

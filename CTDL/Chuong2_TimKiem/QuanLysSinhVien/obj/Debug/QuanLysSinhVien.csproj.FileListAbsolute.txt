@@ -1,0 +1,10 @@
+D:\Phamtanloc\ConsoleApplication4\QuanLysSinhVien\bin\Debug\QuanLysSinhVien.exe
+D:\Phamtanloc\ConsoleApplication4\QuanLysSinhVien\bin\Debug\QuanLysSinhVien.pdb
+D:\Phamtanloc\ConsoleApplication4\QuanLysSinhVien\obj\Debug\QuanLysSinhVien.csprojResolveAssemblyReference.cache
+D:\Phamtanloc\ConsoleApplication4\QuanLysSinhVien\obj\Debug\QuanLysSinhVien.exe
+D:\Phamtanloc\ConsoleApplication4\QuanLysSinhVien\obj\Debug\QuanLysSinhVien.pdb
+E:\CTDL\ConsoleApplication4\QuanLysSinhVien\obj\Debug\QuanLysSinhVien.exe
+E:\CTDL\ConsoleApplication4\QuanLysSinhVien\obj\Debug\QuanLysSinhVien.pdb
+E:\CTDL\ConsoleApplication4\QuanLysSinhVien\bin\Debug\QuanLysSinhVien.exe
+E:\CTDL\ConsoleApplication4\QuanLysSinhVien\bin\Debug\QuanLysSinhVien.pdb
+E:\CTDL\ConsoleApplication4\QuanLysSinhVien\obj\Debug\QuanLysSinhVien.csprojResolveAssemblyReference.cache

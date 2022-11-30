@@ -1,0 +1,4 @@
+3
+123TT123#Le Van Nam#12/15/2000#2#T#Toan#4#8.5#V#Van#3#9.7
+123TT124#Tran Van An#6/25/2001#3#T#Toan#4#8.6#V#Van#3#5.5#H#Hoa#2#8.6
+123TT125#Pham An Hoa#5/10/2002#1#L#Ly#3#8.4

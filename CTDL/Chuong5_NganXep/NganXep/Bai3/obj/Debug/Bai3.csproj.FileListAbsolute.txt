@@ -1,0 +1,6 @@
+E:\CTDL\Chuong5_NganXep\NganXep\Bai3\bin\Debug\Bai3.exe.config
+E:\CTDL\Chuong5_NganXep\NganXep\Bai3\bin\Debug\Bai3.exe
+E:\CTDL\Chuong5_NganXep\NganXep\Bai3\bin\Debug\Bai3.pdb
+E:\CTDL\Chuong5_NganXep\NganXep\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+E:\CTDL\Chuong5_NganXep\NganXep\Bai3\obj\Debug\Bai3.exe
+E:\CTDL\Chuong5_NganXep\NganXep\Bai3\obj\Debug\Bai3.pdb

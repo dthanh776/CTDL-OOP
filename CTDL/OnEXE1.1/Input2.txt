@@ -1,0 +1,11 @@
+10
+NV11#Phan Hoa Tu#05/14/2002#8.5
+NV12#Nguyen Dang Khoi#04/25/2003#4.5
+NV10#Phan Thanh Nam#01/10/2000#6.3
+NV09#Tran Van Bao#09/14/2005#5.8
+NV08#Hoang Huu Nam#07/30/2001#9.4
+NV13#Vo Van Thanh#03/13/2002#10.0
+NV05#Le Bao#12/14/2001#2.3
+NV01#Tran Tu#10/31/2001#3.0
+NV15#Nguyen Hoa#12/02/2002#7.5
+NV12#Tran Hoang#08/22/2004#4.5
